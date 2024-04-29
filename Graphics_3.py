@@ -7,7 +7,7 @@
 
 
 # Code Starts Here
- 
+
 import turtle
 
 turtle.bgcolor('black')
