@@ -1,13 +1,3 @@
-# Code with Kartik
-
-
-
-# All Rights Reserved
-
-
-
-# Code Starts Here
-
 import turtle
 
 turtle.bgcolor('black')
@@ -27,5 +17,6 @@ for number in range(400):
     t.pencolor(colors[number%2])
 
 turtle.done()
+
 
 # Code Ends Here
